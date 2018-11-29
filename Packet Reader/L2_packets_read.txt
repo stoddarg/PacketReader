@@ -1,0 +1,324 @@
+******************************************
+Reading packets from the file: L2_tt_macro_0_1.bin
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x44
+The packet length is: 16
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 17
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 18
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 15
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 19
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 34
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 37
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 17
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 14
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 15
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 18
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 26
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+******************************************
+Reading packets from the file: L2_tt_macro_0_1.bin
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x44
+The packet length is: 16
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 17
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 18
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 15
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 19
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 34
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 37
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 17
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 14
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 15
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 18
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 26
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+******************************************
+Reading packets from the file: L2_tt_macro_0_1.bin
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x44
+The packet length is: 16
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 17
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 18
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 15
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 19
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 34
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 37
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 17
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 14
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 15
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 18
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x0
+The packet length is: 26
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 22
