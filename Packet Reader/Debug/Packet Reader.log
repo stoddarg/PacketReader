@@ -1,4 +1,5 @@
-﻿  Packet Reader.cpp
-k:\users\gstoddard\miscellany\packet reader\packet reader\packet reader\packet reader.cpp(244): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
-k:\users\gstoddard\miscellany\packet reader\packet reader\packet reader\packet reader.cpp(244): warning C4305: 'initializing': truncation from 'double' to 'float'
+﻿  stdafx.cpp
+  Packet Reader.cpp
+k:\users\gstoddard\miscellany\packet reader\packet reader\packet reader\packet reader.cpp(245): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+k:\users\gstoddard\miscellany\packet reader\packet reader\packet reader\packet reader.cpp(245): warning C4305: 'initializing': truncation from 'double' to 'float'
   Packet Reader.vcxproj -> K:\users\GStoddard\Miscellany\Packet Reader\Packet Reader\Debug\Packet Reader.exe
