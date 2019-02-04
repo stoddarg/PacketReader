@@ -1,0 +1,28 @@
+******************************************
+Analyzing the Configuration File from the file: MNSCONF.bin
+
+The configuration file has passed.
+******************************************
+Analyzing the Configuration File from the file: MNSCONF.bin
+
+The configuration file has passed.
+******************************************
+Analyzing the Configuration File from the file: MNSCONF.bin
+
+The configuration file has passed.
+******************************************
+Analyzing the Configuration File from the file: MNSCONF.bin
+
+The configuration file has passed.
+******************************************
+Analyzing the Configuration File from the file: MNSCONF.bin
+
+The configuration file has passed.
+******************************************
+Analyzing the Configuration File from the file: MNSCONF.bin
+
+The configuration file has passed.
+******************************************
+Analyzing the Configuration File from the file: MNSCONF.bin
+
+The configuration file has passed.

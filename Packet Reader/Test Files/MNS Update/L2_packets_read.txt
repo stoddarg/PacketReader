@@ -1,0 +1,98 @@
+******************************************
+Reading packets from the file: L2_tt_macro_0_1_updatedMNS.bin
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x44
+The packet length is: 16
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x0
+The packet length is: 21
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x0
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x0
+The packet length is: 19
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x0
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x11
+The packet length is: 38
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x11
+The packet length is: 41
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x0
+The packet length is: 21
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x0
+The packet length is: 18
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x0
+The packet length is: 19
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x0
+The packet length is: 22
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x0
+The packet length is: 30
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23
+The APID is: 0x22
+The packet length is: 23

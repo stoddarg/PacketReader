@@ -1,0 +1,2 @@
+******************************************
+Analyzing the Configuration File from the file: MNSCONF.bin
